@@ -11,7 +11,11 @@ Word translation is a natural language processing task that provides translation
 - +3.95 points average improvement in supervised dictionary induction.
 
 ## Keywords
-Topic-based dictionary induction, Word embedding alignment, Dictionary induction, Word translation, Topic modeling
+- word translation
+- dictionary induction
+- topic-based dictionary induction
+- topic modeling
+- word embedding alignment
 
 ## Citation
 ```bibtex
