@@ -31,8 +31,10 @@ number = {3},
 issn = {2375-4699},
 url = {https://doi.org/10.1145/3564698},
 doi = {10.1145/3564698},
+abstract = {Word translation is a natural language processing task that provides translation between the words of a source and a target language. As a task, it reduces to the induction of a bilingual dictionary, which is typically performed by aligning word embeddings of the source language to word embeddings of the target language. To date, all the existing approaches have focused on performing a single, global alignment in word embedding space. However, semantic differences between the various languages, in addition to differences in the content of the corpora used for training the word embeddings, can hinder the effectiveness of such a global alignment. For this reason, in this article we propose conducting the alignment between the source and target embedding spaces by multiple mappings at topic level. The experimental results show that our approach has been able to achieve an average accuracy improvement of +3.30 percentage points over a state-of-the-art approach in unsupervised dictionary induction from languages as diverse as German, French, Italian, Spanish, Finnish, Turkish, and Chinese to English, and +3.95 points average improvement in supervised dictionary induction.},
 journal = {ACM Trans. Asian Low-Resour. Lang. Inf. Process.},
 month = {mar},
 articleno = {77},
-numpages = {21}
+numpages = {21},
+keywords = {topic-based dictionary induction, dictionary induction, Word translation, topic modeling, word embedding alignment}
 }
